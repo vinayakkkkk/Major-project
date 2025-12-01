@@ -1,0 +1,26 @@
+[
+  {
+    "id": "m001",
+    "title": "Compiler Design Notes",
+    "description": "Notes on lexical analysis, parsing and code generation.",
+    "tags": ["compiler", "theory"]
+  },
+  {
+    "id": "m002",
+    "title": "LEX and YACC Tutorial",
+    "description": "Step by step LEX/YACC examples.",
+    "tags": ["compiler", "practicals"]
+  },
+  {
+    "id": "m003",
+    "title": "Introduction to Python for ML",
+    "description": "Python basics and ML libraries.",
+    "tags": ["python", "ml"]
+  },
+  {
+    "id": "m004",
+    "title": "NLP Basics",
+    "description": "Text preprocessing, tokenization, TF-IDF and embeddings.",
+    "tags": ["nlp", "ml"]
+  }
+]
