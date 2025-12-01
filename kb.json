@@ -1,0 +1,22 @@
+[
+  {
+    "question": "How do I reset my password?",
+    "answer": "To reset your password go to Profile > Reset Password. If you can't, contact admin.",
+    "tags": ["account", "auth"]
+  },
+  {
+    "question": "How do I submit an assignment?",
+    "answer": "Go to the Assignments page, choose the assignment and upload your file. Click submit.",
+    "tags": ["assignments", "submission"]
+  },
+  {
+    "question": "What is the grading policy?",
+    "answer": "Grading is defined in the syllabus. Contact your instructor for specific criteria.",
+    "tags": ["grades", "policy"]
+  },
+  {
+    "question": "How to prepare for Compiler Design practical?",
+    "answer": "Practice LEX/YACC programs, FIRST/FOLLOW computation and 3AC generation. See the lab manual.",
+    "tags": ["compiler", "practicals"]
+  }
+]
